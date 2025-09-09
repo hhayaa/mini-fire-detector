@@ -1,4 +1,4 @@
-# Mini Fire Detector 🔥
+# Mini Fire Detector
 
 This is a **toy project** showing how to train a simple CNN for fire vs. non-fire detection.  
 Right now it runs on CIFAR-10 (because it's small and built-in), but you can swap in a real fire dataset later.
